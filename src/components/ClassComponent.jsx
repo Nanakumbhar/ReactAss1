@@ -14,3 +14,6 @@ class ClassComponent extends react.Component {
 }
 
 export default ClassComponent;
+
+
+

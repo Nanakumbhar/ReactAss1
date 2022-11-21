@@ -10,6 +10,8 @@ const FunctionalComponent = (props) => {
     );
 }
 
-let ComponentOne = FunctionalComponent;
 
-export default ComponentOne;
+
+
+
+export default FunctionalComponent;
